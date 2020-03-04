@@ -6,5 +6,8 @@ Añado otra línea.
 Adios.
 <br>
 Linea añadida desde rama1
-
+<br>
 Linea añadida desde rama2
+<br>
+Linea añadida desde master
+
